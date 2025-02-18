@@ -1,0 +1,1 @@
+gcloud container clusters create my-cluster --num-nodes=3 --zone=us-central1-a
